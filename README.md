@@ -1,6 +1,6 @@
 # on_time
 
-A new Flutter project.
+Трекер дел со статусом и временем напоминания.
 
 ## Getting Started
 
